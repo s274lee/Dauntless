@@ -1,0 +1,45 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     1005 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.151 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 75Hz; virtual: 3286x1080 at -1366,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\Boo.Lang.dll (this message is harmless)
+Shader 'Legacy Shaders/Bumped Specular': fallback shader 'Legacy Shaders/Specular' not found
+Shader 'Nature/Terrain/Specular': dependency 'BaseMapShader' shader 'Hidden/TerrainEngine/Splatmap/Specular-Base' not found
+The tree Bush1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 98)
+
+Platform assembly: C:\Users\sharonnie\Documents\Demo\lightningdemo_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 17d4 -> priority: 1 
+CubeGrid ON
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Create CubeGrid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
